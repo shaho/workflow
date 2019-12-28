@@ -1,0 +1,9 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Starter kit for JavaScript/TypeScript standard development workflow",
+  "main": "index.js",
+  "repository": "https://github.com/shaho/workflow.git",
+  "author": "Shaho Toofani <toofani@gmail.com>",
+  "license": "MIT"
+}
