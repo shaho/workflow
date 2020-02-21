@@ -10,6 +10,7 @@ Starter kit for JavaScript/TypeScript standard development workflow
 - typescript
 - husky
 - lint-staged
+- concurrently
 
 #### Dev
 
