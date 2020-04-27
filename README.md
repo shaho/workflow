@@ -11,7 +11,7 @@ Starter kit for JavaScript/TypeScript standard development workflow
 - husky
 - lint-staged
 
-#### Dev
+#### Development
 
 ```bash
 $ yarn && yarn validate
