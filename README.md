@@ -8,7 +8,7 @@ Starter kit for JavaScript/TypeScript standard development workflow.
 - eslint
 - prettier
 - typescript
-- husky
+- husky (Git hook)
 - lint-staged
 
 #### Development
