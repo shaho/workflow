@@ -1,6 +1,6 @@
 ## Standard Development Workflow
 
-Starter kit for JavaScript/TypeScript standard development workflow.
+An opinonated Starter kit for JavaScript/TypeScript standard development workflow.
 
 ### Dependencies
 
